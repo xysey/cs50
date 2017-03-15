@@ -1,5 +1,5 @@
 /*
- * my take on the mario pyramid problem of cs50
+ * my take on the mario (full)pyramid problem of cs50
  * Author: xysey
  */
 
